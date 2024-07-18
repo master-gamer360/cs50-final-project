@@ -178,7 +178,7 @@ def factorial():
         input_box.insert(0, n)
 ```
 
-if there's just a number in the input box, it replaces everything in the input box with the factorial of that number, however, if there's an equation like "1*3" and I press the "n!" button, it solves the equation and then prints the factorial of it so 1*3! = 6.
+if there's just a number in the input box, it replaces everything in the input box with the factorial of that number, however, if there's an equation like "1\*3" and I press the "n!" button, it solves the equation and then prints the factorial of it so 1\*3! = 6.
 ___
 # That's all folks.
 ### all there's left is this
